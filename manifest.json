@@ -1,0 +1,485 @@
+{
+  "host": "staticmap-nocdn.maptoolkit.net",
+  "label": "3.3.3",
+  "created": "2026-09-23T09:31:43",
+  "urls_file": "/home/anton/mtk/staticmap/urls.txt",
+  "use_cache": false,
+  "entries": [
+    {
+      "index": 1,
+      "name": "001",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1000x463&center=53.346348,-6.272378&zoom=13.019808&ratio=2&api_key=journi",
+      "label": "center=53.346348,-6.272378&maptype=journi-map&ratio=2&size=1000x463&zoom=13.019808",
+      "seconds": 1.13,
+      "sha": "debafe97cd4e77fd",
+      "bytes": 1380459
+    },
+    {
+      "index": 2,
+      "name": "002",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1002x428&center=36.638853,-4.594742&zoom=17.000000&ratio=2&api_key=journi",
+      "label": "center=36.638853,-4.594742&maptype=journi-map&ratio=2&size=1002x428&zoom=17.000000",
+      "seconds": 2.05,
+      "sha": "5556a5f8fe5d2d64",
+      "bytes": 753294
+    },
+    {
+      "index": 3,
+      "name": "003",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1010x1002&center=58.539461,5.816741&zoom=11.192356&ratio=2&api_key=journi",
+      "label": "center=58.539461,5.816741&maptype=journi-map&ratio=2&size=1010x1002&zoom=11.192356",
+      "seconds": 1.9,
+      "sha": "6490ff0cbb7775b3",
+      "bytes": 2336218
+    },
+    {
+      "index": 4,
+      "name": "004",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1010x1002&center=58.541145,5.740842&zoom=12.009063&ratio=2&api_key=journi",
+      "label": "center=58.541145,5.740842&maptype=journi-map&ratio=2&size=1010x1002&zoom=12.009063",
+      "seconds": 1.98,
+      "sha": "b0678ca91f4fbd31",
+      "bytes": 1785248
+    },
+    {
+      "index": 5,
+      "name": "005",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1020x368&center=44.125542,9.790345&zoom=10.789347&ratio=2&api_key=journi",
+      "label": "center=44.125542,9.790345&maptype=journi-map&ratio=2&size=1020x368&zoom=10.789347",
+      "seconds": 2.22,
+      "sha": "e6a55c174328cca6",
+      "bytes": 1081176
+    },
+    {
+      "index": 6,
+      "name": "006",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1031x1280&center=-18.081876,-77.846003&zoom=4.214231&ratio=2&api_key=journi",
+      "label": "center=-18.081876,-77.846003&maptype=journi-map&ratio=2&size=1031x1280&zoom=4.214231",
+      "seconds": 0.82,
+      "sha": "b49cc2ce458a473a",
+      "bytes": 1033303
+    },
+    {
+      "index": 7,
+      "name": "007",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1120x838&center=53.344580,-6.276170&zoom=11.778437&ratio=2&api_key=journi",
+      "label": "center=53.344580,-6.276170&maptype=journi-map&ratio=2&size=1120x838&zoom=11.778437",
+      "seconds": 1.01,
+      "sha": "fc5dbed9d9d91b73",
+      "bytes": 1653102
+    },
+    {
+      "index": 8,
+      "name": "008",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1140x567&center=44.272316,-71.326538&zoom=13.156351&ratio=2&api_key=journi",
+      "label": "center=44.272316,-71.326538&maptype=journi-map&ratio=2&size=1140x567&zoom=13.156351",
+      "seconds": 1.33,
+      "sha": "1f7372df69bda4bf",
+      "bytes": 1915851
+    },
+    {
+      "index": 9,
+      "name": "009",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1190x1190&center=10.065989,-84.150426&zoom=9.481752&ratio=2&api_key=journi",
+      "label": "center=10.065989,-84.150426&maptype=journi-map&ratio=2&size=1190x1190&zoom=9.481752",
+      "seconds": 2.37,
+      "sha": "4cf6af4c578e867e",
+      "bytes": 3296656
+    },
+    {
+      "index": 10,
+      "name": "010",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1190x1190&center=23.346255,-110.164039&zoom=12.273438&ratio=2&api_key=journi",
+      "label": "center=23.346255,-110.164039&maptype=journi-map&ratio=2&size=1190x1190&zoom=12.273438",
+      "seconds": 1.51,
+      "sha": "dff6de82a6d7b8e7",
+      "bytes": 2038173
+    },
+    {
+      "index": 11,
+      "name": "011",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1280x1120&center=34.879481,-8.699837&zoom=6.395558&ratio=2&api_key=journi",
+      "label": "center=34.879481,-8.699837&maptype=journi-map&ratio=2&size=1280x1120&zoom=6.395558",
+      "seconds": 1.53,
+      "sha": "7777a04daccc4436",
+      "bytes": 1443339
+    },
+    {
+      "index": 12,
+      "name": "012",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=1280x1120&center=-3.707481,109.652607&zoom=6.074001&ratio=2&api_key=journi",
+      "label": "center=-3.707481,109.652607&maptype=journi-map&ratio=2&size=1280x1120&zoom=6.074001",
+      "seconds": 3.47,
+      "sha": "80133bb9bb301abd",
+      "bytes": 1241182
+    },
+    {
+      "index": 13,
+      "name": "013",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=276x446&center=38.428297,14.950713&zoom=11.054322&ratio=2&api_key=journi",
+      "label": "center=38.428297,14.950713&maptype=journi-map&ratio=2&size=276x446&zoom=11.054322",
+      "seconds": 0.36,
+      "sha": "9d8ffa1cd55f7579",
+      "bytes": 158306
+    },
+    {
+      "index": 14,
+      "name": "014",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=284x576&center=45.434357,12.335356&zoom=13.707144&ratio=2&api_key=journi",
+      "label": "center=45.434357,12.335356&maptype=journi-map&ratio=2&size=284x576&zoom=13.707144",
+      "seconds": 0.53,
+      "sha": "cf61fd10c552330d",
+      "bytes": 344259
+    },
+    {
+      "index": 15,
+      "name": "015",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=286x402&center=45.457304,12.307724&zoom=10.885638&ratio=2&api_key=journi",
+      "label": "center=45.457304,12.307724&maptype=journi-map&ratio=2&size=286x402&zoom=10.885638",
+      "seconds": 0.47,
+      "sha": "496e363891661ebc",
+      "bytes": 162276
+    },
+    {
+      "index": 16,
+      "name": "016",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=292x294&center=45.665503,13.064279&zoom=11.010625&ratio=2&api_key=journi",
+      "label": "center=45.665503,13.064279&maptype=journi-map&ratio=2&size=292x294&zoom=11.010625",
+      "seconds": 0.34,
+      "sha": "99948910ee319128",
+      "bytes": 152332
+    },
+    {
+      "index": 17,
+      "name": "017",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=294x324&center=46.657955,11.151211&zoom=11.013438&ratio=2&api_key=journi",
+      "label": "center=46.657955,11.151211&maptype=journi-map&ratio=2&size=294x324&zoom=11.013438",
+      "seconds": 0.45,
+      "sha": "6d70860731dccd99",
+      "bytes": 469157
+    },
+    {
+      "index": 18,
+      "name": "018",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=296x326&center=43.317078,11.328870&zoom=11.016250&ratio=2&api_key=journi",
+      "label": "center=43.317078,11.328870&maptype=journi-map&ratio=2&size=296x326&zoom=11.016250",
+      "seconds": 0.81,
+      "sha": "78cdd2e15d57bea2",
+      "bytes": 327601
+    },
+    {
+      "index": 19,
+      "name": "019",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=298x322&center=48.299562,13.637688&zoom=11.019063&ratio=2&api_key=journi",
+      "label": "center=48.299562,13.637688&maptype=journi-map&ratio=2&size=298x322&zoom=11.019063",
+      "seconds": 0.58,
+      "sha": "7f726383b99fed50",
+      "bytes": 243265
+    },
+    {
+      "index": 20,
+      "name": "020",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=298x322&center=48.448417,13.670705&zoom=11.019063&ratio=2&api_key=journi",
+      "label": "center=48.448417,13.670705&maptype=journi-map&ratio=2&size=298x322&zoom=11.019063",
+      "seconds": 0.65,
+      "sha": "205442b65b918f99",
+      "bytes": 302357
+    },
+    {
+      "index": 21,
+      "name": "021",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=300x104&center=50.664407,2.961319&zoom=9.236066&ratio=2&api_key=journi",
+      "label": "center=50.664407,2.961319&maptype=journi-map&ratio=2&size=300x104&zoom=9.236066",
+      "seconds": 0.54,
+      "sha": "c8e734b03fe14aa8",
+      "bytes": 79342
+    },
+    {
+      "index": 22,
+      "name": "022",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=300x136&center=42.765967,0.622585&zoom=9.192097&ratio=2&api_key=journi",
+      "label": "center=42.765967,0.622585&maptype=journi-map&ratio=2&size=300x136&zoom=9.192097",
+      "seconds": 0.52,
+      "sha": "f3d38d8e1e36d417",
+      "bytes": 265174
+    },
+    {
+      "index": 23,
+      "name": "023",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=360x176&center=22.300948,114.186447&zoom=13.071344&ratio=2&api_key=journi",
+      "label": "center=22.300948,114.186447&maptype=journi-map&ratio=2&size=360x176&zoom=13.071344",
+      "seconds": 2.19,
+      "sha": "20af2aa6ee8ce7bb",
+      "bytes": 176404
+    },
+    {
+      "index": 24,
+      "name": "024",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=360x360&center=-34.051606,150.823578&zoom=11.106250&ratio=2&api_key=journi",
+      "label": "center=-34.051606,150.823578&maptype=journi-map&ratio=2&size=360x360&zoom=11.106250",
+      "seconds": 0.47,
+      "sha": "5a6ee475388c41de",
+      "bytes": 433601
+    },
+    {
+      "index": 25,
+      "name": "025",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=360x360&center=35.360213,24.411562&zoom=11.106250&ratio=2&api_key=journi",
+      "label": "center=35.360213,24.411562&maptype=journi-map&ratio=2&size=360x360&zoom=11.106250",
+      "seconds": 0.44,
+      "sha": "e00c9dd771c4ea24",
+      "bytes": 269382
+    },
+    {
+      "index": 26,
+      "name": "026",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=360x360&center=-35.435888,149.797792&zoom=8.106250&ratio=2&api_key=journi",
+      "label": "center=-35.435888,149.797792&maptype=journi-map&ratio=2&size=360x360&zoom=8.106250",
+      "seconds": 0.59,
+      "sha": "46984f9b2402af45",
+      "bytes": 395522
+    },
+    {
+      "index": 27,
+      "name": "027",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=614x634&center=58.643447,14.400367&zoom=8.463438&ratio=2&api_key=journi",
+      "label": "center=58.643447,14.400367&maptype=journi-map&ratio=2&size=614x634&zoom=8.463438",
+      "seconds": 0.71,
+      "sha": "c773cb73b9b7ecb7",
+      "bytes": 609686
+    },
+    {
+      "index": 28,
+      "name": "028",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=616x308&center=41.896627,12.474025&zoom=12.169763&ratio=2&api_key=journi",
+      "label": "center=41.896627,12.474025&maptype=journi-map&ratio=2&size=616x308&zoom=12.169763",
+      "seconds": 1.14,
+      "sha": "0e0548ee70167da4",
+      "bytes": 768032
+    },
+    {
+      "index": 29,
+      "name": "029",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=616x503&center=40.806970,14.202692&zoom=11.308750&ratio=2&api_key=journi",
+      "label": "center=40.806970,14.202692&maptype=journi-map&ratio=2&size=616x503&zoom=11.308750",
+      "seconds": 0.73,
+      "sha": "30972cd1283f3119",
+      "bytes": 564607
+    },
+    {
+      "index": 30,
+      "name": "030",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=616x618&center=-38.471923,144.044534&zoom=11.466250&ratio=2&api_key=journi",
+      "label": "center=-38.471923,144.044534&maptype=journi-map&ratio=2&size=616x618&zoom=11.466250",
+      "seconds": 0.64,
+      "sha": "2d94933762873c8a",
+      "bytes": 838335
+    },
+    {
+      "index": 31,
+      "name": "031",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=980x312&center=51.504248,-0.099339&zoom=12.426325&ratio=2&api_key=journi",
+      "label": "center=51.504248,-0.099339&maptype=journi-map&ratio=2&size=980x312&zoom=12.426325",
+      "seconds": 1.08,
+      "sha": "aec6c43cff48aaf4",
+      "bytes": 1130314
+    },
+    {
+      "index": 32,
+      "name": "032",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-map&size=KAPUTT&center=47.28%2C12.75&zoom=11.3&api_key=journi&cmpnonce=before-1790144967",
+      "label": "center=47.28,12.75&maptype=journi-map&size=KAPUTT&zoom=11.3",
+      "seconds": 0.51,
+      "error": "HTTP 400"
+    },
+    {
+      "index": 33,
+      "name": "033",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-monochrome&size=1190x520&center=48.185682,11.635182&zoom=12.055390&ratio=2&api_key=journi",
+      "label": "center=48.185682,11.635182&maptype=journi-monochrome&ratio=2&size=1190x520&zoom=12.055390",
+      "seconds": 1.32,
+      "sha": "b10e5a95f7984ce7",
+      "bytes": 868789
+    },
+    {
+      "index": 34,
+      "name": "034",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-monochrome&size=1190x980&center=33.971666,-112.353167&zoom=14.770349&ratio=2&api_key=journi",
+      "label": "center=33.971666,-112.353167&maptype=journi-monochrome&ratio=2&size=1190x980&zoom=14.770349",
+      "seconds": 0.64,
+      "sha": "e48643d039c35bc5",
+      "bytes": 285592
+    },
+    {
+      "index": 35,
+      "name": "035",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-monochrome&size=1190x980&center=36.776476,31.397239&zoom=14.708253&ratio=2&api_key=journi",
+      "label": "center=36.776476,31.397239&maptype=journi-monochrome&ratio=2&size=1190x980&zoom=14.708253",
+      "seconds": 0.5,
+      "sha": "27434a205b6df4d9",
+      "bytes": 824527
+    },
+    {
+      "index": 36,
+      "name": "036",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-monochrome&size=300x532&center=49.017130,6.319256&zoom=8.357059&ratio=2&api_key=journi",
+      "label": "center=49.017130,6.319256&maptype=journi-monochrome&ratio=2&size=300x532&zoom=8.357059",
+      "seconds": 0.38,
+      "sha": "ec718ceaaabdab64",
+      "bytes": 164269
+    },
+    {
+      "index": 37,
+      "name": "037",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-monochrome&size=300x542&center=46.014546,-1.389763&zoom=11.043654&ratio=2&api_key=journi",
+      "label": "center=46.014546,-1.389763&maptype=journi-monochrome&ratio=2&size=300x542&zoom=11.043654",
+      "seconds": 0.51,
+      "sha": "0b4c908e91f4abe1",
+      "bytes": 73725
+    },
+    {
+      "index": 38,
+      "name": "038",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-monochrome&size=498x748&center=44.267872,-110.633705&zoom=3.000000&ratio=2&api_key=journi",
+      "label": "center=44.267872,-110.633705&maptype=journi-monochrome&ratio=2&size=498x748&zoom=3.000000",
+      "seconds": 1.63,
+      "sha": "38741f166ca2f7e5",
+      "bytes": 145088
+    },
+    {
+      "index": 39,
+      "name": "039",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-monochrome&size=498x748&center=44.267872,-110.633705&zoom=3.800313&ratio=2&api_key=journi",
+      "label": "center=44.267872,-110.633705&maptype=journi-monochrome&ratio=2&size=498x748&zoom=3.800313",
+      "seconds": 0.86,
+      "sha": "10c6f0ffd49266a9",
+      "bytes": 103090
+    },
+    {
+      "index": 40,
+      "name": "040",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-monochrome&size=722x711&center=51.554792,12.192030&zoom=11.601250&ratio=2&api_key=journi",
+      "label": "center=51.554792,12.192030&maptype=journi-monochrome&ratio=2&size=722x711&zoom=11.601250",
+      "seconds": 0.51,
+      "sha": "cd1d4cc5045d9a7f",
+      "bytes": 403714
+    },
+    {
+      "index": 41,
+      "name": "041",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=1190x980&center=36.776476,31.397239&zoom=14.708253&ratio=2&api_key=journi",
+      "label": "center=36.776476,31.397239&maptype=journi-outdoors&ratio=2&size=1190x980&zoom=14.708253",
+      "seconds": 1.37,
+      "sha": "ae96741142d8d508",
+      "bytes": 1748063
+    },
+    {
+      "index": 42,
+      "name": "042",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=1190x980&center=38.240256,-95.891237&zoom=4.856128&ratio=2&api_key=journi",
+      "label": "center=38.240256,-95.891237&maptype=journi-outdoors&ratio=2&size=1190x980&zoom=4.856128",
+      "seconds": 0.87,
+      "sha": "a444ab4b885df479",
+      "bytes": 1207441
+    },
+    {
+      "index": 43,
+      "name": "043",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=1190x980&center=42.992254,-85.661012&zoom=11.439723&ratio=2&api_key=journi",
+      "label": "center=42.992254,-85.661012&maptype=journi-outdoors&ratio=2&size=1190x980&zoom=11.439723",
+      "seconds": 1.75,
+      "sha": "b45f10edca6973ad",
+      "bytes": 2037721
+    },
+    {
+      "index": 44,
+      "name": "044",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=1190x980&center=52.025121,19.140414&zoom=7.177705&ratio=2&api_key=journi",
+      "label": "center=52.025121,19.140414&maptype=journi-outdoors&ratio=2&size=1190x980&zoom=7.177705",
+      "seconds": 1.84,
+      "sha": "b71e8ee7dccc9c17",
+      "bytes": 2627915
+    },
+    {
+      "index": 45,
+      "name": "045",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=1190x982&center=42.992254,-85.661012&zoom=11.442665&ratio=2&api_key=journi",
+      "label": "center=42.992254,-85.661012&maptype=journi-outdoors&ratio=2&size=1190x982&zoom=11.442665",
+      "seconds": 1.58,
+      "sha": "a8c4d040b8f64fd9",
+      "bytes": 2038768
+    },
+    {
+      "index": 46,
+      "name": "046",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=1280x1100&center=44.089728,-106.500260&zoom=7.142593&ratio=2&api_key=journi",
+      "label": "center=44.089728,-106.500260&maptype=journi-outdoors&ratio=2&size=1280x1100&zoom=7.142593",
+      "seconds": 6.03,
+      "sha": "1b6d73d0c06427ae",
+      "bytes": 3043552
+    },
+    {
+      "index": 47,
+      "name": "047",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=1280x1100&center=51.345966,10.440553&zoom=6.951727&ratio=2&api_key=journi",
+      "label": "center=51.345966,10.440553&maptype=journi-outdoors&ratio=2&size=1280x1100&zoom=6.951727",
+      "seconds": 1.49,
+      "sha": "61addffc82fdd0d0",
+      "bytes": 2443382
+    },
+    {
+      "index": 48,
+      "name": "048",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=1280x1100&center=52.258551,10.500651&zoom=16.782118&ratio=2&api_key=journi",
+      "label": "center=52.258551,10.500651&maptype=journi-outdoors&ratio=2&size=1280x1100&zoom=16.782118",
+      "seconds": 1.85,
+      "sha": "5ac043c17dfb15bc",
+      "bytes": 2531660
+    },
+    {
+      "index": 49,
+      "name": "049",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=360x626&center=36.150428,-115.158171&zoom=12.294162&ratio=2&api_key=journi",
+      "label": "center=36.150428,-115.158171&maptype=journi-outdoors&ratio=2&size=360x626&zoom=12.294162",
+      "seconds": 0.89,
+      "sha": "fd34d9a72672ff87",
+      "bytes": 589095
+    },
+    {
+      "index": 50,
+      "name": "050",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=376x1216&center=14.128487,99.270472&zoom=6.772017&ratio=2&api_key=journi",
+      "label": "center=14.128487,99.270472&maptype=journi-outdoors&ratio=2&size=376x1216&zoom=6.772017",
+      "seconds": 0.75,
+      "sha": "63181f060690e7ae",
+      "bytes": 751565
+    },
+    {
+      "index": 51,
+      "name": "051",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=424x336&center=46.283530,12.036951&zoom=15.726853&ratio=2&api_key=journi",
+      "label": "center=46.283530,12.036951&maptype=journi-outdoors&ratio=2&size=424x336&zoom=15.726853",
+      "seconds": 0.61,
+      "sha": "7dd27585ad37bc6b",
+      "bytes": 281761
+    },
+    {
+      "index": 52,
+      "name": "052",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=516x1280&center=20.062570,99.811671&zoom=11.277473&ratio=2&api_key=journi",
+      "label": "center=20.062570,99.811671&maptype=journi-outdoors&ratio=2&size=516x1280&zoom=11.277473",
+      "seconds": 0.93,
+      "sha": "c6515265f3dd78c9",
+      "bytes": 2300319
+    },
+    {
+      "index": 53,
+      "name": "053",
+      "url": "https://staticmap-nocdn.maptoolkit.net/?maptype=journi-outdoors&size=618x590&center=7.887020,98.294808&zoom=11.429688&ratio=2&api_key=journi",
+      "label": "center=7.887020,98.294808&maptype=journi-outdoors&ratio=2&size=618x590&zoom=11.429688",
+      "seconds": 0.48,
+      "sha": "dcd27583bcd14ae3",
+      "bytes": 686327
+    }
+  ]
+}
